@@ -1,0 +1,8 @@
+//________User Manual_____
+//step_0:make sure you have javafx 
+//step_1:open view
+//step_2:run Program
+//step_3:Enjoy
+//
+//if you have Error: JavaFX runtime components are missing, and are required to run this application 
+//the you need to run Configurations with : --module-path "C:\Program Files\Java\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml
